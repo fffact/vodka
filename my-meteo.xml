@@ -9,7 +9,7 @@
             // gadgets.util.registerOnLoadHandler(funcLivingInExternalFile);
             
             function funcLivingHere() {
-              alert(puadre);
+              alert('puadre');
             };
             
             gadgets.util.registerOnLoadHandler(funcLivingHere);
