@@ -15,6 +15,9 @@
             
             // gadgets.util.registerOnLoadHandler(funcLivingHere);
           </script>
+          <style>
+            table {border 1px;}
+          </style>
         </head>
         
         <body>
