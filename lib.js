@@ -12,7 +12,9 @@
 // });
 
 function funcLivingInExternalFile() {
-	alert('puadre');
+	// alert('puadre');
+	$("<p></p>").text(p).appendTo("body");
+  
 };
 
 function makeDOMRequest() {    
