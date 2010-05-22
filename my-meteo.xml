@@ -16,7 +16,7 @@
             // gadgets.util.registerOnLoadHandler(funcLivingHere);
           </script>
           <style>
-            table {border 1px;}
+            td {border: 1px solid black;}
           </style>
         </head>
         
