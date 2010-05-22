@@ -1,16 +1,19 @@
-$(document).ready(function(){
-  // Your code here
+// $(document).ready(function(){
+//   // Your code here
+// 
+// 	gadgets.util.registerOnLoadHandler(makeDOMRequest);
+// 	
+// 	alert('puadre');
+// 
+//   
+//   // var p = 'puadre'
+//   // $("<p></p>").text(p).appendTo("body");
+//   
+// });
 
-	gadgets.util.registerOnLoadHandler(makeDOMRequest);
-	
+function funcLivingInExternalFile () {
 	alert('puadre');
-
-  
-  // var p = 'puadre'
-  // $("<p></p>").text(p).appendTo("body");
-  
-});
-
+}
 
 function makeDOMRequest() {    
   var params = {};  
