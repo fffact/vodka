@@ -3,19 +3,19 @@
   <ModulePrefs title="My Meteo" />
   <Content type="html">
     <![CDATA[
+        <head>
           <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
           <script type='text/javascript' src='http://github.com/fffact/vodka/raw/master/lib.js'></script>
           <script type='text/javascript'>
-            gadgets.util.registerOnLoadHandler(funcLivingInExternalFile);
+            gadgets.util.registerOnLoadHandler(main);
             
-            function funcLivingHere() {
-              alert('puadre');
-            };
+            //  function funcLivingHere() {
+            //    alert('puadre');
+            //  };
             
             // gadgets.util.registerOnLoadHandler(funcLivingHere);
-            
-            
           </script>
+        </head>
         
         <body>
           <p>puadre densh</p>
