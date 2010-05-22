@@ -17,8 +17,10 @@
             
           </script>
         
+        <body>
           <p>puadre densh</p>
           <p id="writeMe">this will be overwritten</p>
+        </body>
     ]]>
   </Content>
 </Module>
