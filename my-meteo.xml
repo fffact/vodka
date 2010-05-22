@@ -20,6 +20,17 @@
         <body>
           <p>puadre densh</p>
           <p id="writeMe">this will be overwritten</p>
+          <div id='today'></div>
+            <table id='today'>
+              <tr class='picture>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+            </table>
+          </div>  
+          <div id='tomorrow'></div>
+          <div id='after_tomorrow'></div>
         </body>
     ]]>
   </Content>
