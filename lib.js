@@ -12,8 +12,8 @@
 // });
 
 function main() {
-	alert('puadre');
-	$("<p></p>").text('puadre').appendTo("body");
+	// alert('puadre');
+	// $("<p></p>").text('puadre').appendTo("body");
 	
 	$('td').text('p');
   

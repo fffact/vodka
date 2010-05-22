@@ -21,8 +21,7 @@
         </head>
         
         <body>
-          <p>puadre densh</p>
-          <p id="writeMe">this will be overwritten</p>
+          <p>my meteo</p>
           <div id='today'></div>
             <table id='today'>
               <tr class='picture'>
