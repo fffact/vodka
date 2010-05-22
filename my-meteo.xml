@@ -26,14 +26,30 @@
           <div id='today'></div>
             <table id='today'>
               <tr class='picture'>
-                <td>fuck</td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td></tr>
             </table>
           </div>  
-          <div id='tomorrow'></div>
-          <div id='after_tomorrow'></div>
+          <div id='tomorrow'>
+            <table id='tomorrow'>
+              <tr class='picture'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+            </table>
+          </div>
+          <div id='after_tomorrow'>
+            <table id='after_tomorrow'>
+              <tr class='picture'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+            </table>
+          </div>
         </body>
     ]]>
   </Content>
