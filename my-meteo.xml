@@ -3,8 +3,6 @@
   <ModulePrefs title="My Meteo" />
   <Content type="html">
     <![CDATA[
-      <html>
-        <head>
           <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
           <script type='text/javascript' src='lib.js'></script>
           <script type='text/javascript'>
@@ -15,13 +13,9 @@
               alert(puadre);
             }
           </script>
-        </head>
         
-        <body>
           <p>puadre densh</p>
           <p id="writeMe">this will be overwritten</p>
-        </body>
-      </html>
     ]]>
   </Content>
 </Module>
