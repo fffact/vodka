@@ -11,9 +11,9 @@
 //   
 // });
 
-function funcLivingInExternalFile () {
+function funcLivingInExternalFile() {
 	alert('puadre');
-}
+};
 
 function makeDOMRequest() {    
   var params = {};  
