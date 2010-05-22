@@ -7,11 +7,14 @@
           <script type='text/javascript' src='lib.js'></script>
           <script type='text/javascript'>
             // gadgets.util.registerOnLoadHandler(funcLivingInExternalFile);
-            gadgets.util.registerOnLoadHandler(funcLivingHere);
             
             function funcLivingHere() {
               alert(puadre);
-            }
+            };
+            
+            gadgets.util.registerOnLoadHandler(funcLivingHere);
+            
+            
           </script>
         
           <p>puadre densh</p>
