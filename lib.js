@@ -11,7 +11,7 @@
 //   
 // });
 
-function funcLivingInExternalFile() {
+function main() {
 	alert('puadre');
 	$("<p></p>").text('puadre').appendTo("body");
   
