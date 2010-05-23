@@ -15,7 +15,11 @@ function main() {
 	// alert('puadre');
 	// $("<p></p>").text('puadre').appendTo("body");
 	
-	$('td').text('p');
+	// $('td').text('p');
+	$('tr.picture td').text('pic');
+	$('tr.temperature td').text('temp');
+	$('tr.chance td').text('ch');
+	$('tr.mm td').text('mm');
   
 };
 
