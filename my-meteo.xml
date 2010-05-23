@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="My Meteo" scrolling='true'/>
+  <ModulePrefs title="My Meteo" scrolling="true"/>
   <Content type="html">
     <![CDATA[
         <head>
