@@ -29,6 +29,21 @@
                 <td></td>
                 <td></td>
                 <td></td></tr>
+              <tr class='temperature'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+              <tr class='chance'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+              <tr class='mm'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
             </table>
           </div>  
           <div id='tomorrow'>
@@ -38,11 +53,41 @@
                 <td></td>
                 <td></td>
                 <td></td></tr>
+              <tr class='temperature'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+              <tr class='chance'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+              <tr class='mm'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
             </table>
           </div>
           <div id='after_tomorrow'>
             <table id='after_tomorrow'>
               <tr class='picture'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+              <tr class='temperature'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+              <tr class='chance'>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td></tr>
+              <tr class='mm'>
                 <td></td>
                 <td></td>
                 <td></td>
