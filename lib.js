@@ -20,6 +20,8 @@ function main() {
 	$('tr.temperature td').text('temp');
 	$('tr.chance td').text('ch');
 	$('tr.mm td').text('mm');
+	
+	makeDOMRequest();
   
 };
 
