@@ -31,10 +31,12 @@ function makeDOMRequest() {
 };
 
 function response(obj) {
-  var dom = obj.data;
-  var labels = dom.getElementsByClassName("he5");
-  for (var e in labels) {
-    var p = document.createElement("p");
-    p.innerHTML = e.innerHTML;
-  }
+  var foreignDom = obj.data;
+	var title = $('tile', foreignDom);
+	alert(title);
+  // var labels = dom.getElementsByClassName("he5");
+  // for (var e in labels) {
+  //   var p = document.createElement("p");
+  //   p.innerHTML = e.innerHTML;
+  // }
 };        
