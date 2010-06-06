@@ -35,7 +35,7 @@ function makeDOMRequest() {
 function response(obj) {
   var foreignDom = obj.data;
 	var title = $('tile', foreignDom);
-	alert(title);
+	alert(title.innerHTML);
   // var labels = dom.getElementsByClassName("he5");
   // for (var e in labels) {
   //   var p = document.createElement("p");
